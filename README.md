@@ -9,8 +9,8 @@
 ## 🚀 About Me
 - 🎓 I'm currently studying **Web Development at HAN Arnhem**
 - 💼 I’m currently working as an **Intern Front-end/Back-end Development** at **Lukkien**
-- 🌱 I’m currently learning **Django and Accessibility**, and I'm always eager to learn more!
 - 🛠️ My favorite tools/technologies include **Next.js, Tailwind CSS, Storyblok CMS and Express**
+- 🌱 I’m currently learning **Django and Accessibility**, and I'm always eager to learn more!
 - 📫 How to reach me: **[contact-markevers@proton.me](mailto:contact-markevers@proton.me)**
 - 📍 I live in **Gelderland, The Netherlands**
 - 🗣️ I speak **Dutch, English and German**
