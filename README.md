@@ -25,11 +25,11 @@ Check out some of my favorite projects:
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDA-Han-Student&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=markevers-dev&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDA-Han-Student&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markevers-dev&layout=compact&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=MDA-Han-Student&label=Profile+Views&color=brightgreen&style=flat)
+![](https://komarev.com/ghpvc/?username=markevers-dev&label=Profile+Views&color=brightgreen&style=flat)
 
 ---
 
