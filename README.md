@@ -16,9 +16,7 @@ Welcome to my GitHub profile! I'm passionate about creating user friendly, perfo
 
 ## 🌟 Projects
 Check out some of my favorite projects:
-- [Project Name](GitHub URL) - *Brief description of the project*
-- [Project Name](GitHub URL) - *Brief description of the project*
-- [Project Name](GitHub URL) - *Brief description of the project*
+- [🏔️ Lermoos.tv](https://github.com/MDA-Han-Student/lermoos.tv) - *To be made public*
 
 ---
 
