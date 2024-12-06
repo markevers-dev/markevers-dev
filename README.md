@@ -1,15 +1,19 @@
-# Hi there 👋, I'm Mark!
+<h1 align="center">Hi there 👋, I'm Mark!</h1>
 
-Welcome to my GitHub profile! I'm passionate about creating user friendly, performant and aesthetically pleasing websites. Here's a little more about me:
+<p align="center">Welcome to my GitHub profile! I'm passionate about creating user friendly, performant and aesthetically pleasing websites.<br>
+  Here's a little more about me:
+</p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 I'm currently studying **Web Development at HAN Arnhem**
-- 🌱 I’m currently learning **Django**
-- 💼 I’m currently working as an **Intern Front-end/Back-end Development at Lukkien**
+- 💼 I’m currently working as an **Intern Front-end/Back-end Development** at **Lukkien**
+- 🌱 I’m currently learning **Django, Accessibility**, and I'm always eager to learn more!
 - 🛠️ My favorite tools/technologies include **Next,js, Tailwind CSS, Storyblok CMS, Express**
 - 📫 How to reach me: **[contact-markevers@proton.me](mailto:contact-markevers@proton.me)**
+- 📍 I live in **Gelderland, The Netherlands**
+- 🗣️ I speak: **Dutch, English, German**
 - ⚡ Fun fact: **I love Skyrim!**
 
 ---
@@ -25,7 +29,7 @@ Check out some of my favorite projects:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDA-Han-Student&layout=compact&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=MDA-Han-Student&label=Profile+Views&color=brightgreen&style=flat)
+<!-- ![](https://komarev.com/ghpvc/?username=MDA-Han-Student&label=Profile+Views&color=brightgreen&style=flat) -->
 
 ---
 
@@ -34,4 +38,9 @@ Check out some of my favorite projects:
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate!
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate! 🤝
+
+---
+
+### 🔑 Keywords
+Web Development, Student, Intern, React, Next.js, Tailwind CSS, Storyblok CMS, Express, Front-end, Back-end, Responsiveness, 
