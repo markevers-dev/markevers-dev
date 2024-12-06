@@ -34,7 +34,7 @@ Check out some of my favorite projects:
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mark-evers-78069a19a-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mark-evers-78069a19a)
+![LinkedIn](https://www.linkedin.com/in/mark-evers-78069a19a)
 
 ---
 
