@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about creating user friendly, perfo
 
 ## 🌟 Projects
 Check out some of my favorite projects:
-- [🏔️ Lermoos.tv](https://github.com/MDA-Han-Student/lermoos.tv) - *To be made public*
+- 🏔️ [Lermoos.tv](https://github.com/MDA-Han-Student/lermoos.tv) - *To be made public*
 
 ---
 
