@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Mark!
 
 Welcome to my GitHub profile! I'm passionate about creating user friendly, performant and aesthetically pleasing websites. Here's a little more about me:
 
