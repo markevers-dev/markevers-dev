@@ -10,7 +10,7 @@
 - 🎓 I'm currently studying **Web Development at HAN Arnhem**
 - 💼 I’m currently working as an **Intern Front-end/Back-end Development** at **Lukkien**
 - 🌱 I’m currently learning **Django and Accessibility**, and I'm always eager to learn more!
-- 🛠️ My favorite tools/technologies include **Next,js, Tailwind CSS, Storyblok CMS and Express**
+- 🛠️ My favorite tools/technologies include **Next.js, Tailwind CSS, Storyblok CMS and Express**
 - 📫 How to reach me: **[contact-markevers@proton.me](mailto:contact-markevers@proton.me)**
 - 📍 I live in **Gelderland, The Netherlands**
 - 🗣️ I speak **Dutch, English and German**
@@ -29,7 +29,7 @@ Check out some of my favorite projects:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDA-Han-Student&layout=compact&theme=radical)
 
-<!-- ![](https://komarev.com/ghpvc/?username=MDA-Han-Student&label=Profile+Views&color=brightgreen&style=flat) -->
+![](https://komarev.com/ghpvc/?username=MDA-Han-Student&label=Profile+Views&color=brightgreen&style=flat)
 
 ---
 
