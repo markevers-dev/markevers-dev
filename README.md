@@ -20,7 +20,7 @@
 
 ## 🌟 Projects
 Check out some of my favorite projects:
-- 🏔️ [Lermoos.tv](https://github.com/MDA-Han-Student/lermoos.tv) - *To be made public*
+- 🏔️ [Lermoos.tv](https://github.com/MDA-Han-Student/lermoos.tv) - *To be published*
 
 ---
 
