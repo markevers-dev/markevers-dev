@@ -19,8 +19,9 @@
 ---
 
 ## 🌟 Projects
-Check out some of my favorite projects:
-- 🏔️ [Lermoos.tv](https://github.com/MDA-Han-Student/lermoos.tv) - *To be published*
+What I'm currently working on:
+- 🧙‍♂️ **WizardsHateMath:** A Next.js/Express website which handles score tracking and calculations for the card game "Wizard", which will eventually be open-sourced!
+- 🏔️ **Lermoos.tv:** A Next.js website which shows webcams and relevant data for the town Lermoos and other surrounding towns.
 
 ---
 
