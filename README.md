@@ -1,4 +1,4 @@
-<img src="/public/images/readme_banner.png" alt="Social preview" >
+<img src="/public/images/readme_banner.png" alt="README Banner">
 
 <h1 align="center">Hi there 👋, I'm Mark!</h1>
 
