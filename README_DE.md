@@ -2,10 +2,6 @@
 
 <h1 align="center">Hallo zusammen 👋, Ich bin Mark!</h1>
 
-![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 <p align="center">
   Willkommen auf meinem GitHub-Profil! Ich bin leidenschaftlich daran interessiert, benutzerfreundliche, performante und ästhetisch ansprechende Websites zu erstellen.<br>
   Hier ist ein wenig mehr über mich:
@@ -33,6 +29,10 @@ Woran ich gerade arbeite:
 ---
 
 ## 📈 GitHub-Statistiken
+![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=markevers-dev&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markevers-dev&layout=compact&theme=radical)
