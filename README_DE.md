@@ -1,8 +1,8 @@
+<h1 align="center">Hallo zusammen 👋, Ich bin Mark!</h1>
+
 ![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<h1 align="center">Hallo zusammen 👋, Ich bin Mark!</h1>
 
 <p align="center">
   Willkommen auf meinem GitHub-Profil! Ich bin leidenschaftlich daran interessiert, benutzerfreundliche, performante und ästhetisch ansprechende Websites zu erstellen.<br>
