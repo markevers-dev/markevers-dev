@@ -1,3 +1,5 @@
+<img src="/public/images/readme_banner.png" alt="Social preview" >
+
 <h1 align="center">Hi there 👋, I'm Mark!</h1>
 
 ![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
