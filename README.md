@@ -1,3 +1,7 @@
+![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <h1 align="center">Hi there 👋, I'm Mark!</h1>
 
 <p align="center">Welcome to my GitHub profile! I'm passionate about creating user friendly, performant and aesthetically pleasing websites.<br>
@@ -14,10 +18,6 @@
     <img src="https://img.shields.io/badge/Deutsch%20🇩🇪-37a779?style=for-the-badge" alt="Deutsch">
   </a>
 </div>
-
-![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
