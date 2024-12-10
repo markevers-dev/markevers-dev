@@ -6,6 +6,17 @@
 
 ---
 
+<div align="center">
+  <a href="https://github.com/markevers-dev/markevers-dev/blob/main/README_NL.md">
+    <img src="https://img.shields.io/badge/Nederlands%20🇳🇱-37a779?style=for-the-badge" alt="Nederlands">
+  </a>
+  <a href="https://github.com/markevers-dev/markevers-dev/blob/main/README_DE.md">
+    <img src="https://img.shields.io/badge/Deutsch%20🇩🇪-37a779?style=for-the-badge" alt="Deutsch">
+  </a>
+</div>
+
+---
+
 ## 🚀 About Me
 - 🎓 I'm currently studying **Web Development** at **HAN Arnhem**
 - 💼 I’m currently working as an **Intern Front-end/Back-end Development** at **Lukkien**
@@ -44,4 +55,8 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 ---
 
 ### 🔑 Keywords
-Web Development, Student, Intern, React, Next.js, Tailwind CSS, Storyblok CMS, Express, Front-end, Back-end, Responsiveness, 
+Web Development, Student, Intern, React, Next.js, Tailwind CSS, Storyblok CMS, Express, Front-end, Back-end, Responsiveness
+
+<!-------------------------------->
+
+[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
