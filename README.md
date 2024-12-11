@@ -33,7 +33,7 @@
 
 ## 🌟 Projects
 What I'm currently working on:
-- 💻 **Kodierung**: An IDE connected to a user's GitHub, fully run in the browser. This will be open-sourced.
+- 💻 [**Kodierung**](https://github.com/markevers-dev/kodierung): An IDE connected to a user's GitHub, fully run in the browser. This will be open-sourced.
 
 What I'm planning to work on:
 - 🧙‍♂️ **WizardsHateMath:** A Next.js/Express website which handles score tracking and calculations for the card game "Wizard", which will eventually be open-sourced!
