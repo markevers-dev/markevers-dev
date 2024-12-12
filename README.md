@@ -61,8 +61,3 @@ What I'm planning to work on:
 ---
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate! 🤝
-
----
-
-### 🔑 Keywords
-Web Development, Student, Intern, React, Next.js, Tailwind CSS, Storyblok CMS, Express, Front-end, Back-end, Responsiveness
