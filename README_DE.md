@@ -42,7 +42,14 @@ Woran ich gerade arbeite:
 ---
 
 ## 🔗 Vernetze dich mit mir
-![LinkedIn](https://www.linkedin.com/in/mark-evers-78069a19a)
+<a href="https://www.linkedin.com/in/mark-evers-78069a19a" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="LinkedIn share logo" width="144">
+</a>
+</br>
+<a href="https://x.com/dev_mark_e" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X share logo" width="36">
+</a>
+
 
 ---
 
