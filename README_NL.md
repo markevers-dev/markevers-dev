@@ -23,8 +23,12 @@
 
 ## 🌟 Projecten
 Waar ik momenteel aan werk:
+- 💻 [**Kodierung**](https://github.com/markevers-dev/kodierung): Een IDE die een connectie heeft met het GitHub account van de gebruiker. Volledige draaiend in de browser. Dit wordt open-sourced.
+
+Waar ik ooit aan wil gaan werken:
 - 🧙‍♂️ **WizardsHateMath:** Een Next.js/Express website die scores bijhoud en berekeningen doet voor het kaartspel "Wizard". Uiteindelijk wordt dit open-source gemaakt!
 - 🏔️ **Lermoos.tv:** Een Next.js website die webcams en andere relevante data voor het dorpje Lermoos en andere dorpen in de omgeving laat zien.
+- 🌳 Sustrackibility: Een Django website waar gebruikers hun gewoontes kunnen tracken en goals om hun koolstof-voetprint de verminderen kunnen stellen. Dit wordt open-source gemaakt
 
 ---
 
@@ -54,8 +58,3 @@ Waar ik momenteel aan werk:
 ---
 
 Bedankt voor je bezoek! Voel je vrij om mijn repositories te ontdekken en contact met me op te zoeken als je ergens samen aan wilt werken! 🤝
-
----
-
-### 🔑 Keywords
-Web Development, Student, Intern, React, Next.js, Tailwind CSS, Storyblok CMS, Express, Front-end, Back-end, Responsiveness
