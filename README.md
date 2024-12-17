@@ -2,20 +2,11 @@
 
 <h1 align="center">Hi there 👋, I'm Mark!</h1>
 
-<p align="center">Welcome to my GitHub profile! I'm passionate about creating user friendly, performant and aesthetically pleasing websites.<br>
+[<img src="https://img.shields.io/badge/Nederlands%20🇳🇱-37a779?style=for-the-badge" alt="Nederlands">](https://github.com/markevers-dev/markevers-dev/blob/main/README_NL.md)
+[<img src="https://img.shields.io/badge/Deutsch%20🇩🇪-37a779?style=for-the-badge" alt="Deutsch">](https://github.com/markevers-dev/markevers-dev/blob/main/README_DE.md)
+<p>Welcome to my GitHub profile! I'm passionate about creating user friendly, performant and aesthetically pleasing websites.<br>
   Here's a little more about me:
 </p>
-
----
-
-<div align="center">
-  <a href="https://github.com/markevers-dev/markevers-dev/blob/main/README_NL.md">
-    <img src="https://img.shields.io/badge/Nederlands%20🇳🇱-37a779?style=for-the-badge" alt="Nederlands">
-  </a>
-  <a href="https://github.com/markevers-dev/markevers-dev/blob/main/README_DE.md">
-    <img src="https://img.shields.io/badge/Deutsch%20🇩🇪-37a779?style=for-the-badge" alt="Deutsch">
-  </a>
-</div>
 
 ---
 
@@ -44,28 +35,19 @@ What I'm planning to work on:
 
 ## 📈 GitHub Stats
 ![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 ![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=markevers-dev&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markevers-dev&layout=compact&theme=radical)
-
-![](https://komarev.com/ghpvc/?username=markevers-dev&label=Profile+Views&color=brightgreen&style=flat)
+![](https://komarev.com/ghpvc/?username=markevers-dev&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 ---
 
 ## 🔗 Connect With Me
 
-<a href="https://www.linkedin.com/in/mark-evers-78069a19a" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" alt="LinkedIn share logo" width="80">
-</a>
-<a href="https://x.com/dev_mark_e" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X share logo" width="80">
-</a>
-<a href="https://stackoverflow.com/users/28817835/cryovenator" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverflow share logo" width="80">
-</a>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/ProtonMail_icon.svg" alt="Email" width="80">](mailto:contact-markevers@proton.me)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" alt="LinkedIn share logo" width="80">](https://www.linkedin.com/in/mark-evers-78069a19a)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X share logo" width="80">](https://x.com/dev_mark_e)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverflow share logo" width="80">](https://stackoverflow.com/users/28817835/cryovenator)
 
 ---
 
