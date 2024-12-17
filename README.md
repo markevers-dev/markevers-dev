@@ -22,12 +22,6 @@
 
 ---
 
-## 🌟 Projects
-What I'm currently working on:
-- 💻 [**Kodierung**](https://github.com/markevers-dev/kodierung): An IDE connected to a user's GitHub, fully run in the browser. This will be open-sourced.
-
----
-
 ## 📈 GitHub Stats
 ![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
@@ -44,6 +38,13 @@ What I'm currently working on:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X share logo" width="80">](https://x.com/dev_mark_e)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverflow share logo" width="80">](https://stackoverflow.com/users/28817835/cryovenator)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam share logo" width="80">](https://steamcommunity.com/id/cryovenator)
+
+
+---
+
+## 🌟 Projects
+What I'm currently working on:
+- 💻 [**Kodierung**](https://github.com/markevers-dev/kodierung): An IDE connected to a user's GitHub, fully run in the browser. This will be open-sourced.
 
 ---
 
