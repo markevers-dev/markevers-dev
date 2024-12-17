@@ -58,11 +58,13 @@ What I'm planning to work on:
 ## 🔗 Connect With Me
 
 <a href="https://www.linkedin.com/in/mark-evers-78069a19a" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="LinkedIn share logo" width="144">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" alt="LinkedIn share logo" width="80">
 </a>
-</br>
 <a href="https://x.com/dev_mark_e" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X share logo" width="36">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X share logo" width="80">
+</a>
+<a href="https://stackoverflow.com/users/28817835/cryovenator" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverflow share logo" width="80">
 </a>
 
 ---
