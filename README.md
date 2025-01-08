@@ -44,7 +44,7 @@
 
 ## 🌟 Projects
 What I'm currently working on:
-- 💻 [**Kodierung**](https://github.com/markevers-dev/kodierung): An IDE connected to a user's GitHub, fully run in the browser. This will be open-sourced.
+- ⛰ [**Lermoos.tv**](https://github.com/markevers-dev/lermoos.tv): A website showing webcams from and relevant data about the Tyrolean town Lermoos and it's surroundings.
 
 ---
 
