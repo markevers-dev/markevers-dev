@@ -44,7 +44,8 @@
 
 ## 🌟 Projects
 What I'm currently working on:
-- ⛰ [**Lermoos.tv**](https://github.com/markevers-dev/lermoos.tv): A website showing webcams from and relevant data about the Tyrolean town Lermoos and it's surroundings.
+- ⛰ [**Lermoos.tv**](https://github.com/markevers-dev/lermoos.tv): A website showing webcams from- and relevant data about the Tyrolean town Lermoos and it's surroundings.
+- 🙋‍♂️ [**Portfolio**](https://github.com/markevers-dev/portfolio): A website to show off, well, myself
 
 ---
 
