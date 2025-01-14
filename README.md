@@ -26,6 +26,7 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" alt="LinkedIn share logo" width="80">](https://www.linkedin.com/in/mark-evers-78069a19a)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X share logo" width="80">](https://x.com/dev_mark_e)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky share logo" width="80">]([https://x.com/dev_mark_e](https://bsky.app/profile/markevers-dev.bsky.social))
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverflow share logo" width="80">](https://stackoverflow.com/users/28817835/cryovenator)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/ProtonMail_icon.svg" alt="Email" width="80">](mailto:contact-markevers@proton.me)
 
