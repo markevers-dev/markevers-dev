@@ -8,8 +8,6 @@
   Here's a little more about me:
 </p>
 
----
-
 ## 🚀 About Me
 - 🎓 I'm currently studying **Web Development** at **HAN Arnhem**
 - 💼 I’m currently working as an **Intern Front-end/Back-end Development** at **Lukkien**
@@ -20,16 +18,12 @@
 - 🗣️ I speak **Dutch, English and German**
 - ⚡ Fun fact: **I love Skyrim!**
 
----
-
 ## 📈 GitHub Stats
 ![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=markevers-dev&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markevers-dev&layout=compact&theme=radical)
 ![](https://komarev.com/ghpvc/?username=markevers-dev&label=Profile%20Visits&color=blue&style=for-the-badge)
-
----
 
 ## 🔗 Connect With Me
 
@@ -40,13 +34,9 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam share logo" width="80">](https://steamcommunity.com/id/cryovenator)
 
 
----
-
 ## 🌟 Projects
 What I'm currently working on:
 - ⛰ [**Lermoos.tv**](https://github.com/markevers-dev/lermoos.tv): A website showing webcams from- and relevant data about the Tyrolean town Lermoos and it's surroundings.
 - 🙋‍♂️ [**Portfolio**](https://github.com/markevers-dev/portfolio): A website to show off, well, myself
 
----
-
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate! 🤝
+### Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate! 🤝
