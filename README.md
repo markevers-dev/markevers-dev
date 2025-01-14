@@ -4,9 +4,6 @@
 
 [<img src="https://img.shields.io/badge/Nederlands%20🇳🇱-37a779?style=for-the-badge" alt="Nederlands">](https://github.com/markevers-dev/markevers-dev/blob/main/README_NL.md)
 [<img src="https://img.shields.io/badge/Deutsch%20🇩🇪-37a779?style=for-the-badge" alt="Deutsch">](https://github.com/markevers-dev/markevers-dev/blob/main/README_DE.md)
-<p>Welcome to my GitHub profile! I'm passionate about creating user friendly, performant and aesthetically pleasing websites.<br>
-  Here's a little more about me:
-</p>
 
 ## 🚀 About Me
 - 🎓 I'm currently studying **Web Development** at **HAN Arnhem**
