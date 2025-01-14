@@ -11,7 +11,7 @@
 - 🛠️ My favorite tools/technologies include **Next.js, Tailwind CSS and Express**
 - 🌱 I’m currently learning **Django and Accessibility**, and I'm always eager to learn more!
 - 📫 How to reach me: **[contact-markevers@proton.me](mailto:contact-markevers@proton.me)**
-- 📍 I live in **Gelderland, The Netherlands**
+- 📍 I live in **Arnhem-Nijmegen Region, The Netherlands**
 - 🗣️ I speak **Dutch, English and German**
 - ⚡ Fun fact: **I love Skyrim!**
 
