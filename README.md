@@ -9,7 +9,7 @@
 - 🎓 I'm currently studying **Web Development** at **HAN Arnhem**
 - 💼 I’m currently working as an **Intern Front-end/Back-end Development** at **Lukkien**
 - 🛠️ My favorite tools/technologies include **Next.js, Tailwind CSS and Express**
-- 🌱 I’m currently learning **Vue.js/Nuxt, Deno/Oak and UnoCSS**, and I'm always eager to learn more!
+- 🌱 I’m currently learning **Deno/Fresh and Deno/Oak**, and I'm always eager to learn more!
 - 📫 How to reach me: **[contact-markevers@proton.me](mailto:contact-markevers@proton.me)**
 - 📍 I live in **Arnhem-Nijmegen Region, The Netherlands**
 - 🗣️ I speak **Dutch, English and German**
