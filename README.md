@@ -30,7 +30,7 @@
 
 ## 🌟 Projects
 What I'm currently working on:
-- ⛰ **Lermoos.tv**: A website showing webcams from- and relevant data about the Tyrolean town Lermoos and it's surroundings.
+- ⛰ [**Lermoos.tv**](https://lermoos.tv): A website showing webcams from- and relevant data about the Tyrolean town Lermoos and it's surroundings.
 - 🦕 [**DeNotes**](https://github.com/markevers-dev/denotes): A simple note-taking app, primarily being built for me to learn Deno/Fresh and Deno/Oak.
 - 🙋‍♂️ [**Portfolio**](https://github.com/markevers-dev/portfolio): A website to show off, well, myself.
 
