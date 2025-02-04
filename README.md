@@ -24,14 +24,13 @@
 ## 🔗 Connect With Me
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" alt="LinkedIn share logo" width="80">](https://www.linkedin.com/in/mark-evers-dev)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X share logo" width="80">](https://x.com/dev_mark_e)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky share logo" width="80">](https://bsky.app/profile/markevers-dev.bsky.social)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverflow share logo" width="80">](https://stackoverflow.com/users/28817835/cryovenator)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/ProtonMail_icon.svg" alt="Email" width="80">](mailto:contact-markevers@proton.me)
 
 ## 🌟 Projects
 What I'm currently working on:
-- ⛰ [**Lermoos.tv**](https://github.com/markevers-dev/lermoos.tv): A website showing webcams from- and relevant data about the Tyrolean town Lermoos and it's surroundings.
+- ⛰ **Lermoos.tv**: A website showing webcams from- and relevant data about the Tyrolean town Lermoos and it's surroundings.
 - 🦕 [**DeNotes**](https://github.com/markevers-dev/denotes): A simple note-taking app, primarily being built for me to learn Deno/Fresh and Deno/Oak.
 - 🙋‍♂️ [**Portfolio**](https://github.com/markevers-dev/portfolio): A website to show off, well, myself.
 
