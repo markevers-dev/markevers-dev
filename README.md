@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 🎓 I'm currently studying **Web Development** at **HAN Arnhem**
 - 🛠️ My favorite tools/technologies include **Next.js, Tailwind CSS, Storyblok CMS and Express**
-- 🌱 I’m currently learning **Deno/Fresh and Deno/Oak**, and I'm always eager to learn more!
+- 🌱 I’m currently learning **C#/.NET and Deep Learning**, and I'm always eager to learn more!
 - 📫 How to reach me: **[contact-markevers@proton.me](mailto:contact-markevers@proton.me)**
 - 📍 I live in **Arnhem-Nijmegen Region, The Netherlands**
 - 🗣️ I speak **Dutch, English and German**
