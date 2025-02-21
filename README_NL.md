@@ -2,35 +2,14 @@
 
 <h1 align="center">Hallo daar 👋, ik ben Mark!</h1>
 
-<p align="center">
-  Welkom op mijn GitHub profiel! Ik heb een passie voor het creëren van gebruiksvriendelijke, performante en esthetisch aantrekkelijke websites.<br>
-  Hier vindt je wat meer over mij:
-</p>
-
----
-
 ## 🚀 Over Mij
 - 🎓 Ik studeer momenteel **Web Development** aan de **HAN Arnhem**
-- 💼 Ik werk momenteel als **Stagiair Front-end/Back-end Development** bij **Lukkien**
 - 🛠️ Mijn favoriete tools/technologieën zijn onder andere **Next.js, Tailwind CSS, Storyblok CMS en Express**
-- 🌱 Ik leer op dit moment **Django en Accessibility** en sta altijd open om meer te leren!
+- 🌱 Ik leer op dit moment **C#/.NET en Deep Learning** en sta altijd open om meer te leren!
 - 📫 Hoe je me kunt bereiken: **[contact-markevers@proton.me](mailto:contact-markevers@proton.me)**
 - 📍 I woon in **Gelderland, Nederland**
 - 🗣️ I spreek **Nederlands, Engels en Duits**
 - ⚡ Fun fact: **Ik hou van Skyrim!**
-
----
-
-## 🌟 Projecten
-Waar ik momenteel aan werk:
-- 💻 [**Kodierung**](https://github.com/markevers-dev/kodierung): Een IDE die een connectie heeft met het GitHub account van de gebruiker. Volledige draaiend in de browser. Dit wordt open-sourced.
-
-Waar ik ooit aan wil gaan werken:
-- 🧙‍♂️ **WizardsHateMath:** Een Next.js/Express website die scores bijhoud en berekeningen doet voor het kaartspel "Wizard". Uiteindelijk wordt dit open-source gemaakt!
-- 🏔️ **Lermoos.tv:** Een Next.js website die webcams en andere relevante data voor het dorpje Lermoos en andere dorpen in de omgeving laat zien.
-- 🌳 Sustrackibility: Een Django website waar gebruikers hun gewoontes kunnen tracken en goals om hun koolstof-voetprint de verminderen kunnen stellen. Dit wordt open-source gemaakt
-
----
 
 ## 📈 GitHub-statistieken
 ![GitHub Snake](https://raw.githubusercontent.com/markevers-dev/markevers-dev/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
@@ -43,17 +22,18 @@ Waar ik ooit aan wil gaan werken:
 
 ![](https://komarev.com/ghpvc/?username=markevers-dev&label=Profile+Views&color=brightgreen&style=flat)
 
+## 🔗 Met Mij Verbinden
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" alt="LinkedIn share logo" width="80">](https://www.linkedin.com/in/mark-evers-dev)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky share logo" width="80">](https://bsky.app/profile/markevers-dev.bsky.social)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverflow share logo" width="80">](https://stackoverflow.com/users/28817835/cryovenator)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/ProtonMail_icon.svg" alt="Email" width="80">](mailto:contact-markevers@proton.me)
+
 ---
 
-## 🔗 Met Mij Verbinden
-<a href="https://www.linkedin.com/in/mark-evers-78069a19a" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" alt="LinkedIn share logo" width="144">
-</a>
-</br>
-<a href="https://x.com/dev_mark_e" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X share logo" width="36">
-</a>
-
+## 🌟 Projecten
+Waar ik momenteel aan werk:
+- 🦕 [**DeNotes**](https://github.com/markevers-dev/denotes): Een simpele aantekingsapp, die vooral wordt gebouwd zodat ik Denp/Fresh en Deno/Oak kan leren.
+- 🙋‍♂️ [**Portfolio**](https://github.com/markevers-dev/portfolio): Een website om mezelf van mijn beste kant te tonen! 😉
 
 ---
 
