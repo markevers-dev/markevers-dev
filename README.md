@@ -31,8 +31,7 @@
 
 ## 🌟 Projects
 What I'm currently working on:
-- 🦕 [**DeNotes**](https://github.com/markevers-dev/denotes): A simple note-taking app, primarily being built for me to learn Deno/Fresh and Deno/Oak.
-- 🧠 [**Shadoku**]: A PWA Sudoku app built with Next.js and Shadcn/ui, using Keras to classify difficulty.
+- 🛡️ **Athenize**: A selfmade and self-hostable Vector Database using HNSW (Hierarchical Navigable Small Worlds) indexing, made with MongoDB and Flask.
 - 🙋‍♂️ [**Portfolio**](https://github.com/markevers-dev/portfolio): A website to show off, well, myself.
 
 ### Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate! 🤝
