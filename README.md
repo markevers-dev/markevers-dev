@@ -7,9 +7,9 @@
 
 ## 🚀 About Me
 - 🎓 I'm currently studying **Web Development** at **HAN Arnhem**
-- 😁 Currently excited about: Creating my own **Vector Database and API** using **MongoDB** and **Flask**!
-- 🛠️ My favorite tools and technologies include **Next.js, Tailwind CSS, Storyblok CMS and Express**
-- 🌱 I’m currently learning **C#/.NET and Deep Learning**, and I'm always eager to learn more!
+- 😁 Currently excited about: Delving into backend development!
+- 🛠️ My favorite tools and technologies include **Next.js, Tailwind CSS and Flask!**
+- 🌱 I’m currently learning **DevOps** and **Vue.js/Nuxt.js**, and I'm always eager to learn more!
 - 📫 How to reach me: **[contact-markevers@proton.me](mailto:contact-markevers@proton.me)**
 - 📍 I live in **Arnhem-Nijmegen Region, The Netherlands**
 - 🗣️ I speak **Dutch, English and German**
