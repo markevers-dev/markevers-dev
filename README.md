@@ -25,8 +25,6 @@
 ## 🔗 Connect With Me
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" alt="LinkedIn share logo" width="80">](https://www.linkedin.com/in/mark-evers-dev)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky share logo" width="80">](https://bsky.app/profile/markevers-dev.bsky.social)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverflow share logo" width="80">](https://stackoverflow.com/users/28817835/cryovenator)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/ProtonMail_icon.svg" alt="Email" width="80">](mailto:contact-markevers@proton.me)
 
 ## 🌟 Projects
