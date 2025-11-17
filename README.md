@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 🎓 I'm currently studying **Web Development** at **HAN Arnhem**
 - 😁 Currently excited about: Delving into backend development!
-- 🛠️ My favorite tools and technologies include **Next.js, Tailwind CSS and Flask!**
+- 🛠️ My favorite tools and technologies include **Next.js, Tailwind CSS and .NET!**
 - 🌱 I’m currently learning **DevOps** and **Vue.js/Nuxt.js**, and I'm always eager to learn more!
 - 📫 How to reach me: **[contact-markevers@proton.me](mailto:contact-markevers@proton.me)**
 - 📍 I live in **Arnhem-Nijmegen Region, The Netherlands**
