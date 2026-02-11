@@ -8,7 +8,6 @@
 ## 🚀 About Me
 - 🎓 I'm currently studying **Web Development** at **HAN Arnhem**
 - 💻 I'm doing my graduation internship at **Four Digits**
-- 😁 Currently excited about: Delving into backend development!
 - 🛠️ My favorite tools and technologies include **Next.js, Tailwind CSS and .NET!**
 - 🌱 I’m currently learning **Django** and **Wagtail CMS**, and I'm always eager to learn more!
 - 📫 How to reach me: **[contact-markevers@proton.me](mailto:contact-markevers@proton.me)**
@@ -25,10 +24,5 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" alt="LinkedIn share logo" width="80">](https://www.linkedin.com/in/mark-evers-dev)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/ProtonMail_icon.svg" alt="Email" width="80">](mailto:contact-markevers@proton.me)
-
-## 🌟 Projects
-My favourite projects I've worked on in the past:
-- 🧡 [**Orange Babies**](https://www.orangebabies.nl/): When I worked as Intern Frontend/Backend Development at [@Lukkien](https://github.com/lukkien), I was a main developer for the new website for the Dutch NGO Orange Babies.
-- 🏔️ [**Lermoos.tv**](https://lermoos.tv): Showing webcams, traffic cams and other info about the village of Lermoos and its surroundings in the Zugspitz Arena.
 
 ### Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate! 🤝
