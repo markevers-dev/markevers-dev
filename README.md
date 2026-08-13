@@ -3,10 +3,8 @@
 [<img src="https://img.shields.io/badge/Deutsch%20🇩🇪-37a779?style=for-the-badge" alt="Deutsch">](https://github.com/markevers-dev/markevers-dev/blob/main/README_DE.md)
 
 ## About Me
-- I'm currently studying **Web Development** at **HAN Arnhem**
-- I'm doing my graduation internship at **Four Digits**
+- I recently graduated from **HAN Arnhem**
 - My favorite tools and technologies include **Next.js, Tailwind CSS and .NET**.
-- I’m currently learning **Django** and **Wagtail CMS**.
 - I live in **Arnhem-Nijmegen Region, The Netherlands**
 - I speak **Dutch, English and German**
 - Fun fact: I'm a huge fan of Skyrim!
