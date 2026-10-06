@@ -1,10 +1,8 @@
 ![README Banner](https://github.com/markevers-dev/markevers-dev/blob/main/public/images/readme_banner.png?raw=true)
 
 ## Über mich
-- Ich studiere derzeit **Web Development** an der **HAN Arnhem**.
-- Ich arbeite derzeit als **Praktikant** bei **Four Digits**.
+- Ich habe vor Kurzem mein Studium **HBO-ICT** an der **HAN in Arnhem** mit dem Schwerpunkt **Webentwicklung** abgeschlossen.
 - Meine Lieblingstools/-technologien sind **Next.js, Tailwind CSS und .NET**.
-- Ich lerne gerade **Django** und **Wagtail CMS**.
 - Ich lebe in **Arnhem-Nijmegen Region, Niederlande**.
 - Ich spreche **Niederländisch, Englisch und Deutsch**.
 - Fun Fact: Ich liebe Skyrim!
