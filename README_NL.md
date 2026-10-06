@@ -1,10 +1,8 @@
 ![README Banner](https://github.com/markevers-dev/markevers-dev/blob/main/public/images/readme_banner.png?raw=true)
 
 ## Over Mij
-- Ik studeer momenteel **Web Development** aan de **HAN Arnhem**
-- Ik werk als Afstudeerstagiair bij **Four Digits**
+- Ik ben recentelijk afgestudeerd aan de **HAN in Arnhem** met een BS.c. in **HBO-ICT** met een specialisatie in **Web Development**.
 - Mijn favoriete tools/technologieën zijn onder andere **Next.js, Tailwind CSS & .NET**.
-- Ik leer op dit moment **Django** en **Wagtail CMS**.
 - I woon in **Gelderland, Nederland**
 - I spreek **Nederlands, Engels en Duits**
 - Fun fact: Ik hou van Skyrim!
